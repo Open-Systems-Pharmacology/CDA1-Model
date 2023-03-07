@@ -33,7 +33,7 @@
               "Value": -5.0,
               "Unit": "Log Units",
               "ValueOrigin": {
-                "Source": "Unknown",
+                "Source": "Other",
                 "Description": "/Dummy value not used in the simulation"
               }
             }
@@ -49,7 +49,7 @@
               "Name": "Fraction unbound (plasma, reference value)",
               "Value": 1.0,
               "ValueOrigin": {
-                "Source": "Unknown",
+                "Source": "Other",
                 "Description": "Assumption"
               }
             }
@@ -65,7 +65,7 @@
               "Value": 999.0,
               "Unit": "mg/l",
               "ValueOrigin": {
-                "Source": "Unknown",
+                "Source": "Other",
                 "Description": "/Dummy value not used in the simulation"
               }
             },
@@ -73,7 +73,7 @@
               "Name": "Reference pH",
               "Value": 7.0,
               "ValueOrigin": {
-                "Source": "Unknown",
+                "Source": "Other",
                 "Description": "/Dummy value not used in the simulation"
               }
             }
@@ -482,7 +482,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "CDA1\nSim_20mgkg\n2022-11-16 13:39"
+          "OriginText": "CDA1\nSim_20mgkg\n2023-03-07 08:44"
         },
         {
           "Axes": [
@@ -549,7 +549,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "CDA1\nSim_20mgkg\n2022-11-16 13:39"
+          "OriginText": "CDA1\nSim_20mgkg\n2023-03-07 08:44"
         }
       ]
     },
@@ -700,7 +700,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "CDA1\nSim_5mgkg\n2022-11-16 13:39"
+          "OriginText": "CDA1\nSim_5mgkg\n2023-03-07 08:45"
         },
         {
           "Axes": [
@@ -767,7 +767,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "CDA1\nSim_5mgkg\n2022-11-16 13:39"
+          "OriginText": "CDA1\nSim_5mgkg\n2023-03-07 08:45"
         }
       ]
     },
@@ -923,7 +923,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "CDA1\nSim_10mgkg\n2022-11-16 13:40"
+          "OriginText": "CDA1\nSim_10mgkg\n2023-03-07 08:44"
         },
         {
           "Axes": [
@@ -990,7 +990,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "CDA1\nSim_10mgkg\n2022-11-16 13:40"
+          "OriginText": "CDA1\nSim_10mgkg\n2023-03-07 08:44"
         }
       ]
     }
@@ -1306,18 +1306,18 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.104166664,
-          0.416666657,
-          1.0,
-          2.0,
-          3.0,
-          7.0,
-          14.0,
-          28.0,
-          56.0
+          2.5,
+          10.0,
+          24.0,
+          48.0,
+          72.0,
+          168.0,
+          336.0,
+          672.0,
+          1344.0
         ],
         "Dimension": "Time",
-        "Unit": "day(s)"
+        "Unit": "h"
       }
     }
   ]
